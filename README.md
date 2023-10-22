@@ -1,7 +1,7 @@
 # Parking_space_block_booking_system
 This repo creates a new parking space block booking system that involves parking space agents and parking structures (parking structure owners). The system consists of multiple parking space agents (clients) and multiple parking structures (servers). The parking space agents can buy in quantity (block) of parking spaces from the parking structures with lower (discounted) prices, and then resell the parking spaces
 to their customers (end users) at competitive prices. The required architecture and the major components of the system are shown below.
-[Architecture of the system](./)
+[Architecture of the system](./Parking_space_block_booking_system.png)
 
 In this system, both clients and servers are simulated in one system using multithreading and event-driven programming.
 An Operation Scenario of the parking space block booking system is outlined as follows:
