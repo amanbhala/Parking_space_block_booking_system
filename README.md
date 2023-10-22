@@ -12,3 +12,6 @@ An Operation Scenario of the parking space block booking system is outlined as f
 (5) The ParkingStructure creates a new thread, an OrderProcessingThread, to process the order;
 (6) The OrderProcessingThread processes the order, e.g., checks the credit card number and the maximum number allowed to purchase, etc., and calculates the total amount.
 (7) The OrderProcessingThread sends a confirmation to the parking space agent and prints the order information (on screen).
+
+# Run the project
+Open the project in Visual Studio and then hit F5 or press the Run button. You can change the 
