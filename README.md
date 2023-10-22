@@ -14,4 +14,4 @@ An Operation Scenario of the parking space block booking system is outlined as f
 (7) The OrderProcessingThread sends a confirmation to the parking space agent and prints the order information (on screen).
 
 # Run the project
-Open the project in Visual Studio and then hit F5 or press the Run button. You can change the 
+Open the project in Visual Studio and then hit F5 or press the Run button. You can change the number of Parking Structure threads by changing the value of K and Parking Agency threads by changing the value of N in ParkingBooking.cs file
